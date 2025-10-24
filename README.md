@@ -10,8 +10,8 @@
 - ⚡ Fun fact: BETTER LATE THAN NEVER.
 
 ### ⚙️ Skills Highlight:-
-- Data Visualization 📈
 - Statistics 📊
+- Machine Learning
 - SQL 🔑 
+- Data Visualization 📈
 - Advanced Excel 📝 
-
