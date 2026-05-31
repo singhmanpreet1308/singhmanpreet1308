@@ -3,7 +3,7 @@
 <h2 align="center">A Machine Learning, Deep Learning & Data Science enthusiast.</h2>
  
 
-- 🔭 I’m currently working on Finance project.
+- 🔭 I’m currently working on Healthcare project.
 - 🌱 I’m currently learning Data Structure and Algorithms and Deep Learning.
 - 👯 I’m looking to collaborate on Real world projects.
 - 📫 How to reach me: singh.manpreet1308@gmail.com
