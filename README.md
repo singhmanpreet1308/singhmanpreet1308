@@ -1,5 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on a healthcare project.<br>🌱 I’m currently learning Data Structure and Algorithms and Deep Learning.<br>👯 I’m looking to collaborate on real-world projects.<br>📫 How to reach me: singh.manpreet1308@gmail.com<br>⚡ Fun fact: BETTER LATE THAN NEVER.<br>⚙️ Skills Highlight:-<br>Statistics 📊<br>Machine Learning<br>SQL 🔑<br>Data Visualization 📈<br>Advanced Excel 📝<br>Power BI
+## 👋 About Me
+
+I'm a data professional with 5+ years of experience across different roles and industries, connected by one constant — **data**.
+
+I enjoy understanding complex data, uncovering patterns, and transforming them into meaningful insights and practical solutions that support better business decisions.
+
+🔭 I’m currently working on a **Healthcare Data & Machine Learning project**.
+
+🌱 I’m currently strengthening my knowledge of **Data Structures & Algorithms and Deep Learning**.
+
+👯 I’m open to collaborating on **real-world Data, Analytics, Machine Learning, and AI projects**.
+
+🎯 My focus is on solving real business problems through **data-driven thinking, analytics, automation, and intelligent solutions**.
+
+📫 Reach me at: **singh.manpreet1308@gmail.com**
+
+⚡ Fun fact: **Better late than never.**
+
+## ⚙️ Skills
+
+- 🐍 Python
+- 🔑 SQL
+- 📊 Statistics & Statistical Analysis
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🔄 Data Engineering & ETL
+- 📈 Data Visualization
+- 📊 Power BI
+- 📝 Advanced Excel
+- ☁️ AWS
+- ⚙️ Process Improvement & Lean Six Sigma
 
 
 ## 🌐 Socials:
